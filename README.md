@@ -1,16 +1,48 @@
-## Hi there 👋
+# JorranesDev
 
-<!--
-**cq51/cq51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Developer;Technology+Enthusiast;Building+Digital+Experiences" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brazil-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm Jorranes, also known as JorranesDev.
+
+I'm passionate about technology, programming and creating digital experiences.
+
+- Software development
+- Technology and innovation
+- Learning new tools
+- Building creative projects
+
+## Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode&theme=dark" />
+</p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cq51&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cq51&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cq51&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Building. Learning. Improving.</sub>
+</p>
